@@ -1,4 +1,4 @@
-# Étapes de l'installation d'Arch Linux
+#     gggggggg Étapes de l'installation d'Arch Linux
 
 Ce n'est pas un script ! Ceci me permet de me rappeler certaines étapes !
 
